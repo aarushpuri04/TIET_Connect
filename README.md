@@ -1,6 +1,6 @@
 # TIET Connect
 
-<p>Tiet Connect is a social media platform project designed for connecting TIET students through posts, comments, and messaging. It provides features such as user authentication, profile management, posting updates, and more. The platform is built using React for the frontend and Node.js with Express for the backend, and it integrates with MongoDB for data storage.</p>
+<p>Tiet Connect is a social media platform project designed for connecting TIET students through posts, comments, and messaging. It provides features such as user authentication, profile management, posting updates, and more. The project is built using React for the frontend and Node.js with Express for the backend, and it integrates with MongoDB for data storage.</p>
 
 ## Features
 
