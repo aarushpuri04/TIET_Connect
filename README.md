@@ -47,6 +47,14 @@ To get a local copy of the project up and running, follow these steps:
    npm start
 
    The frontend server will start on http://localhost:3000.
+
+2. Then in another terminal, Navigate to Backend directory and do apm install:
+
+ ```bash
+ cd ../backend 
+ npm start
+
+   The backend server will start running.
    ```
 
 # Running Tests
